@@ -1,0 +1,19 @@
+{
+    "name": "admin/ezcode",
+    "description": "Du an xuong Ezcode",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "thaivm2",
+            "email": "thaivm2@fpt.edu.vn"
+        }
+    ],
+    "require": {
+        "phroute/phroute": "^2.2",
+        "eftec/bladeone": "^4.9"
+    }
+}
